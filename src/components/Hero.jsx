@@ -255,7 +255,7 @@ export default function Hero() {
                 {/* Photo */}
                 <div className="absolute inset-[3px] rounded-full overflow-hidden"
                   style={{ boxShadow: 'inset 0 0 30px rgba(0,0,0,0.4)' }}>
-                  <img src="/karan-photo.jpeg" alt="Karan Raj"
+                  <img src="/karan2-photo.jpeg" alt="Karan Raj"
                     className="w-full h-full object-cover"
                     style={{ objectPosition: 'center 15%', filter: 'brightness(1.05) contrast(1.05) saturate(1.1)' }} />
                 </div>
